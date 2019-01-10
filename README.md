@@ -14,4 +14,4 @@ https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function
 
 
 # Future reading
-[] https://stackoverflow.com/questions/29788181/kyle-simpsons-oloo-pattern-vs-prototype-design-pattern
+[ ] https://stackoverflow.com/questions/29788181/kyle-simpsons-oloo-pattern-vs-prototype-design-pattern
