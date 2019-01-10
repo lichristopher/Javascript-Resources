@@ -10,3 +10,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objec
 
 First-class Function
 https://developer.mozilla.org/en-US/docs/Glossary/First-class_Function
+
+
+
+#Future reading
