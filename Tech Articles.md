@@ -6,3 +6,4 @@
 - https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a
 - https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb
 - https://medium.freecodecamp.org/how-to-be-the-superstar-intern-you-know-you-are-54eb0372b5e5
+- https://medium.freecodecamp.org/10-tips-for-success-when-youre-learning-to-code-65ff55a52bed
